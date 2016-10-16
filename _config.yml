@@ -37,7 +37,7 @@ theme_color:
 
 # 代码高亮主题
 # available: default | night
-highlight_theme: default
+highlight_theme: night
 
 #### index post is expanding or not 
 index:
@@ -60,7 +60,7 @@ author:
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
   zhihu: fysly     ## e.g. jark  for http://www.zhihu.com/people/jark
-  email:      ## e.g. imjark@gmail.com
+  email: fysly@outlook.com     ## e.g. imjark@gmail.com
   twitter: fysly
   github: fysly
   facebook:   ## e.g. imjark for https://facebook.com/imjark
